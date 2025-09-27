@@ -10,7 +10,7 @@ import com.ShopperStack_Ap_POM.MyProfile_page;
 
 import ShopperStack_GenericUtility.BaseTest;
 
-public class TC_02_VerifyUserAbleToDeleteAddressOrNot_Te75st extends BaseTest{
+public class TC_02_VerifyUserAbleToDeleteAddressOrNot_Test extends BaseTest{
 	
 	@Test
 	public void deleteaddress() throws InterruptedException, IOException {
